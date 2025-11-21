@@ -41,3 +41,10 @@ Call-Center-Dashboard/
 ├── Call_Center_Dashboard.xlsx   # Main Excel file (includes both raw data & dashboard)
 ├── Dashboard_Screenshot.png     # Preview image of the dashboard UI
 ├── README.md                    # This documentation file
+
+---
+## Copyright Notice
+
+Copyright (c) 2025 Sumit Pal. All Rights Reserved.
+
+This project is not licensed for external distribution, modification, or commercial use without express written permission from the copyright holder.
